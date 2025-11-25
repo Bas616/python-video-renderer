@@ -134,7 +134,7 @@ def main():
     # 1. Title Slide
     clips.append(make_clip(
         "การเขียนรายงานเชิงวิชาการ",
-        "รายงานวิชาการ (Academic Report)\n\nผู้จัดทำ: นายพงศกร พ.\n(Student Project)\n\nวิชา: ภาษาไทย (ท33102)", 
+        "รายงานวิชาการ (Academic Report)\n\nผู้จัดทำ: นายพงศกร พ.\n(Student Project)", 
         "intro", "trans", 2.0, "Initiating Knowledge Base..."
     ))
 
