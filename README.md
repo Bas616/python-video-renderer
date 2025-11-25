@@ -17,4 +17,4 @@ A programmatic approach to educational presentations. This project uses **Python
 *   `output/`: Final rendered video artifacts.
 
 ---
-*Project submitted for Thai Language Course (ท33102).*
+*Project submitted for Thai Language Course.*
